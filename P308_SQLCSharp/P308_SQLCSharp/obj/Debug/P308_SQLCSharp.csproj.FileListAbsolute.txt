@@ -1,0 +1,10 @@
+C:\Users\rufatfq\source\repos\P308_SQLCSharp\P308_SQLCSharp\bin\Debug\P308_SQLCSharp.exe.config
+C:\Users\rufatfq\source\repos\P308_SQLCSharp\P308_SQLCSharp\bin\Debug\P308_SQLCSharp.exe
+C:\Users\rufatfq\source\repos\P308_SQLCSharp\P308_SQLCSharp\bin\Debug\P308_SQLCSharp.pdb
+C:\Users\rufatfq\source\repos\P308_SQLCSharp\P308_SQLCSharp\obj\Debug\P308_SQLCSharp.csprojResolveAssemblyReference.cache
+C:\Users\rufatfq\source\repos\P308_SQLCSharp\P308_SQLCSharp\obj\Debug\P308_SQLCSharp.Form1.resources
+C:\Users\rufatfq\source\repos\P308_SQLCSharp\P308_SQLCSharp\obj\Debug\P308_SQLCSharp.Properties.Resources.resources
+C:\Users\rufatfq\source\repos\P308_SQLCSharp\P308_SQLCSharp\obj\Debug\P308_SQLCSharp.csproj.GenerateResource.Cache
+C:\Users\rufatfq\source\repos\P308_SQLCSharp\P308_SQLCSharp\obj\Debug\P308_SQLCSharp.csproj.CoreCompileInputs.cache
+C:\Users\rufatfq\source\repos\P308_SQLCSharp\P308_SQLCSharp\obj\Debug\P308_SQLCSharp.exe
+C:\Users\rufatfq\source\repos\P308_SQLCSharp\P308_SQLCSharp\obj\Debug\P308_SQLCSharp.pdb
